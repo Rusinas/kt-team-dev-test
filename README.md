@@ -1,24 +1,14 @@
 # kt
 
-## Project setup
+Результат выполнения тестового задания https://kt.team/hr/test-frontend
+Потрачено суммарно 7 часов. Около 3 на вещи, связанные с фронтом - развернуть новый проект, сверстать и т.д. Еще часа 3 на войну с firebase, который не умеет в нормальную пагинацию. И еще час, чтобы захардкодить эту пагинацию и сделать вторую часть. 
+
+## Установка
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
+### Запуск
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
